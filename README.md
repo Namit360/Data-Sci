@@ -3,7 +3,11 @@
 Hello,
 These are my data science projects.
 
+About company:
+
 DLithe Consultancy Services Private Limited is Bengaluru based EdTech company, started in the year 2018. It is led by industry professional with two decades of experience in the field of Information Technology - Product, Project Management, Engineering Excellence and Delivery, Customer Management, Human Resource management areas.
+
+About programming:
 
 The internship was on Python programming and Data Science. I learnt about Python software installation, environment setup followed by programming using basics and advanced concepts such object-oriented programming. I learnt about importance of data, data extraction, processing and visualisation. I learnt about using various datasets and run the algorithms to discover the data patterns.
 
